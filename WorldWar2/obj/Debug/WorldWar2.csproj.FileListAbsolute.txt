@@ -1,0 +1,10 @@
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe.config
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.pdb
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.Form1.resources
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.exe
+C:\Users\Thinkpad\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.pdb
